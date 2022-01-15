@@ -1,4 +1,4 @@
 # C00Lio
-hola senor
-bonjour mon ami
+;/;//
 hello world
+*(Pushed from system 76)*
